@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Nancy Web Application</title>
+</head>
+<body>
+    <div>
+        <h1>Success. It's working ...</h1>
+        <a href="@Model.OurWebLink" title="Click me" target="_blank">Click me ...</a>
+    </div>
+</body>
+</html>
